@@ -20,6 +20,7 @@ html{
 
 header{
     height: 70px;
+    background-color: white;
 }
 
 img{
@@ -30,4 +31,5 @@ img{
 img, h1{
     display: inline-block;
     vertical-align: middle;
+    background-color: white;
 }
