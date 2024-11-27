@@ -32,6 +32,7 @@ img, h1{
     display: inline-block;
     vertical-align: middle;
     background-color: white;
+    color: #091731;
 }
 
 main{
@@ -77,4 +78,9 @@ main{
     border-radius: 5px;
     padding: 10px;
     padding-left: 40px;
+}
+
+.drop-down-menu-title{
+    background-color: white;
+    margin-top: 20px;
 }
