@@ -93,5 +93,37 @@ main{
     background-color: white;
     color: #75c6b1;
     font-size: x-small;
-    padding: 0px 2px
+    padding: 0px 2px;
+    display: inline-block;
+}
+
+.black-text{
+    font-size: small;
+    background-color: white;
+    margin: 0px 2px;
+    vertical-align: middle;
+}
+
+.categoria{
+    background-color: #e58600;
+    color: white;
+    border-radius: 7px;
+    border: 1px solid #e58600;
+    font-size: 8px;
+    padding: 3px 5px;
+    margin: 0px 5px;
+    vertical-align: middle;
+}
+
+.spunte-rosse{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-top: 10px;
+    border: 1.5px solid #EA493E;
+    background-color: white;
+    color: #EA493E;
+    font-size: x-small;
+    padding: 0px 3px;
+    display: inline-block;
 }
