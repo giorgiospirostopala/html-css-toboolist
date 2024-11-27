@@ -69,3 +69,12 @@ main{
     margin-right: 5px;
 }
 
+#sezione-2{
+    margin-top: 2px;
+    background-color: white;
+    height: 350px;
+    /* chiedi se height andasse impostato in % (o insomma responsive -> se si, come?) */
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 40px;
+}
