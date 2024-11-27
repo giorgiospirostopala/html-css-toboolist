@@ -73,14 +73,22 @@ main{
 #sezione-2{
     margin-top: 2px;
     background-color: white;
-    height: 350px;
+    height: 430px;
     /* chiedi se height andasse impostato in % (o insomma responsive -> se si, come?) */
     border-radius: 5px;
-    padding: 10px;
-    padding-left: 40px;
+    padding: 10px 40px;
 }
 
 .drop-down-menu-title{
     background-color: white;
     margin-top: 20px;
+}
+
+.spunte-verdi{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-top: 10px;
+    border: 1.5px solid #75c6b1;
+    background-color: white;
 }
