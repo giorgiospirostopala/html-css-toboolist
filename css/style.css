@@ -33,3 +33,39 @@ img, h1{
     vertical-align: middle;
     background-color: white;
 }
+
+main{
+    width: 75%;
+    margin: 0 auto;
+
+}
+
+#sezione-1{
+    margin-top: 40px;
+    background-color: white;
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+#task-1{
+    background-color: #47ACF1;
+    color: white;
+    border-radius: 3px;
+    border: 1px solid #47ACF1;
+    font-size: xx-small;
+    padding: 5px 10px;
+    margin-right: 5px;
+}
+
+#task-2{
+    background-color: white;
+    color: #C2C8CC;
+    border-radius: 3px;
+    border: 1px solid #C2C8CC;
+    font-size: xx-small;
+    padding: 5px 10px;
+    margin-right: 5px;
+}
+
