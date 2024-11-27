@@ -91,4 +91,7 @@ main{
     margin-top: 10px;
     border: 1.5px solid #75c6b1;
     background-color: white;
+    color: #75c6b1;
+    font-size: x-small;
+    padding: 0px 2px
 }
